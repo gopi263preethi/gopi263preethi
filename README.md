@@ -10,7 +10,7 @@
 ### 👀 I'm interested in:
 - **AWS Cloud** and **DevOps**, particularly in **automating infrastructure** for scalable and resilient systems.
   
-### 🌱 I’m currently learning:
+### 🌱 I’m currently Working upon:
 - Advanced **Kubernetes** deployments, **Infrastructure as Code (IaC)** with **Terraform**, and observability tools.
 
 ### 💞️ I’m looking to collaborate on:
